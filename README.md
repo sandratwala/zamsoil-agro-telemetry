@@ -43,3 +43,6 @@ The application targets three distinct regional production nodes:
    npm run dev
    ```
 5. Navigate your localized web browser profile engine directly to: `http://localhost:3000`
+
+<img width="1495" height="980" alt="image" src="https://github.com/user-attachments/assets/cf2f74be-c174-4947-bea7-872078e48d31" />
+
